@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "blog_name": "Realtime Blogs",
+    "tag_line": "A Website By Tushar Dimri",
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/realtime blogs",
+    "prod_uri": "mysql://root:@localhost/realtime blogs",
+    "fb_url": "https://facebook.com/realtimeblogs",
+    "tw_url": "https://twitter.com/realtimeblogs",
+    "gh_url": "https://github.com/realtimeblogs",
+    "gmail-user" : "tushar.dimri91@gmail.com",
+    "gmail-password" : "8126840347"
+  }
+
+
+
+}
